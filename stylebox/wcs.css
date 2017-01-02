@@ -1,0 +1,26 @@
+.logo{
+    font-style: oblique;    
+}
+.wcs-brnd{
+    
+}
+.navbar{
+    border-radius: 0px;
+    margin: 0px;
+}
+
+.ftr{
+    margin-top: 30px;
+    
+}
+.hd-p{
+    max-width: 550px;
+    margin: auto;
+}
+.bk1-img{    
+   background-image: url("../images/txt/21.jpg");
+   
+}
+body{
+    background: url("../images/txt/3.jpg");
+}
